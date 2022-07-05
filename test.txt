@@ -3,3 +3,4 @@ This is first line
 This is first line from maaster
 This is first line from test_branch
 This is line 2 from test_branch
+This is line 3 from test_branch
