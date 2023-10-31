@@ -1,6 +1,4 @@
-# My_Ecom_Project
-
-# My Django Project README
+# My Ecommerce Project
 
 Welcome to my Ecommerce Application!
 
